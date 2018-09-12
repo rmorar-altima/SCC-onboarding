@@ -1,0 +1,23 @@
+{
+  "stores": [
+    {
+      "store-id": "1",
+      "store-name": "name of 1",
+      "store-postal-code": "postal code of 1",
+      "store-phone": "000.000.001.111",
+      "store-events": "<div>myStore Event is new on saturday</div>"
+    },
+    {
+      "store-id": "2",
+      "store-name": "name of 2",
+      "store-postal-code": "postal code of 2",
+      "store-phone": "000.000.001.112"
+    },
+    {
+      "store-id": "3",
+      "store-name": "name of 3",
+      "store-postal-code": "postal code of 3",
+      "store-phone": "000.000.001.113"
+    }
+  ]
+}
